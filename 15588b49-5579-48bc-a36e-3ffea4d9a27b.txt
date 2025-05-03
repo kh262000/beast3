@@ -1,0 +1,3 @@
+EMAIL=khalidedres4@gmail.com
+EMAIL_PASSWORD=Khalededres123
+PORT=5000

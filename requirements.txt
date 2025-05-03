@@ -1,0 +1,13 @@
+Flask==2.3.3
+ccxt==4.4.78
+pandas==2.2.2
+numpy==1.26.4
+ta==0.10.2
+plotly==5.22.0
+requests==2.32.3
+beautifulsoup4==4.12.3
+vaderSentiment==3.3.2
+python-dotenv==1.0.1
+gunicorn==22.0.0
+hurst==0.0.5
+pandas_ta==0.3.14b0
