@@ -11,8 +11,8 @@ app = Flask(__name__)
 
 # Load environment variables
 load_dotenv()
-EMAIL = os.getenv('EMAIL')
-EMAIL_PASSWORD = os.getenv('EMAIL_PASSWORD')
+EMAIL = os.getenv('khalidedres4@gmail.com')
+EMAIL_PASSWORD = os.getenv('Khalededres123')
 
 # Initialize exchange (using ccxt)
 exchange = ccxt.binance()
