@@ -1,6 +1,6 @@
 Flask==2.3.3
 ccxt==4.4.78
-pandas==2.1.4
+pandas==2.0.3
 numpy==1.26.4
 ta==0.10.2
 plotly==5.22.0
@@ -11,3 +11,8 @@ python-dotenv==1.0.1
 gunicorn==22.0.0
 hurst==0.0.5
 pandas_ta==0.3.14b0
+tensorflow-cpu==2.15.0
+scikit-learn==1.4.1
+matplotlib==3.8.3
+seaborn==0.13.2
+xgboost==2.0.3
